@@ -1,6 +1,6 @@
 ### Hi there 👋
-* [CFX Forum](https://forum.cfx.re/u/golja_valjev)
-* [Steam](https://steamcommunity.com/id/yakinaki)
+* [CFX Forum](https://forum.cfx.re/u/mudilane)
+* [Steam](https://steamcommunity.com/id/ropzinator)
 
 
 
