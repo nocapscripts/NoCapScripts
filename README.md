@@ -1,5 +1,5 @@
 ### Hi there 👋
-* [CFX Forum](https://forum.cfx.re/u/mudilanRe)
+* [CFX Forum](https://forum.cfx.re/u/mudilane)
 * [Steam](https://steamcommunity.com/id/ropzinator)
 
 
