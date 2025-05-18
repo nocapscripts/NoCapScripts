@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-Welcome! I'm someone who enjoys diving into what truly interests me — from **coding** to **designing**, I find passion in both creativity and logic.
+Welcome! I'm someone who enjoys diving into what truly interests me — from **coding** to **designing**.
 
 ---
 
