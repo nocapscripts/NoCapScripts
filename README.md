@@ -1,13 +1,16 @@
-### Hi there 👋
+# 👋 Hey there!
 
-# I enjoy doing things that interest me, whether it's coding or designing.
+Welcome! I'm someone who enjoys diving into what truly interests me — from **coding** to **designing**, I find passion in both creativity and logic.
 
+---
 
-# Details
-* [CFX Forum](https://forum.cfx.re/u/mudilane)
-* [Steam](https://steamcommunity.com/id/kar1sma)
+## 🌐 Find Me Around
 
+- 🧩 [CFX Forum](https://forum.cfx.re/u/mudilane)  
+- 🎮 [Steam](https://steamcommunity.com/id/kar1sma)
 
+---
 
+## 📊 GitHub Stats
 
-![emptiness](https://github-readme-stats.vercel.app/api?username=nocapscripts&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nocapscripts&show_icons=true&theme=dracula)
