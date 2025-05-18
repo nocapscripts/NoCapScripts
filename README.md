@@ -6,7 +6,7 @@ Welcome! I'm someone who enjoys diving into what truly interests me — from **c
 
 ## 🌐 Find Me Around
 
-- 🧩 [CFX Forum](https://forum.cfx.re/u/mudilane)  
+- 🧩 [CFX Forum](https://forum.cfx.re/u/nocapscripts)  
 - 🎮 [Steam](https://steamcommunity.com/id/kar1sma)
 
 ---
