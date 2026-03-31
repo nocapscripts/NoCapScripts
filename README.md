@@ -3,16 +3,16 @@
 ## 📊 GitHub Metrics
  
 ### 🈷️ Languages
-![Languages](github/nocapscripts/nocapscripts/raw/main/metrics.languages.svg)
+![Languages](github/nocapscripts/nocapscripts/raw/master/metrics.languages.svg)
  
 ### 🏆 Achievements
-![Achievements](github/nocapscripts/nocapscripts/raw/main/metrics.achievements.svg)
+![Achievements](github/nocapscripts/nocapscripts/raw/master/metrics.achievements.svg)
  
 ### 📅 Isometric Commit Calendar
-![Isometric Calendar](github/nocapscripts/nocapscripts/raw/main/metrics.isocalendar.svg)
+![Isometric Calendar](github/nocapscripts/nocapscripts/raw/master/metrics.isocalendar.svg)
  
 ### 📰 Recent Activity
-![Recent Activity](github/nocapscripts/nocapscripts/raw/main/metrics.activity.svg)
+![Recent Activity](github/nocapscripts/nocapscripts/raw/master/metrics.activity.svg)
  
 
 
