@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
   # Run on push to main/master
   push:
-    branches: ["master", "main"]
+    branches: ["master"]
 
 jobs:
   github-metrics:
@@ -80,10 +80,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: nocapscripts
           template: classic
-          base: ""
+          base: repositories
           filename: metrics.repositories.svg
-          plugin_repositories: yes
-          plugin_repositories_featured: ""
-          plugin_repositories_pinned: 6
-          plugin_repositories_starred: 0
-          plugin_repositories_order: pushed
+          repositories_skipped: ""
