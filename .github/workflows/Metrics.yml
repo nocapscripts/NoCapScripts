@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
   # Run on push to main/master
   push:
-    branches: ["main", "master"]
+    branches: ["master"]
 
 jobs:
   github-metrics:
