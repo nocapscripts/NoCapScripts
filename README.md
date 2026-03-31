@@ -13,3 +13,6 @@
 
 ### 📰 Recent Activity
 ![Recent Activity](https://raw.githubusercontent.com/nocapscripts/nocapscripts/master/metrics.activity.svg)
+
+### 📓 Latest Repositories
+![Latest Repositories](https://raw.githubusercontent.com/nocapscripts/nocapscripts/master/metrics.repositories.svg)
